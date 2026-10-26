@@ -29,6 +29,7 @@ Goal: read disassembly and understand how programs behave at runtime.
 - ⬜ **crackmes.one** — start with difficulty 1–2 crackmes
 - ⬜ **picoCTF** — Reverse Engineering and Binary Exploitation categories
 - ⬜ Tools: GDB (+ pwndbg/GEF), Ghidra, `objdump`, `strace`, `ltrace`
+- ⬜ Publish a writeup for every solve in [writeups](https://github.com/LevXddd/writeups)
 
 Resources: [pwn.college](https://pwn.college) · [crackmes.one](https://crackmes.one) ·
 [picoCTF](https://picoctf.org) · [Ghidra](https://ghidra-sre.org)
